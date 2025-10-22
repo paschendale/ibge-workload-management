@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/workfload_management" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
